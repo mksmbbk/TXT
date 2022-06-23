@@ -1,0 +1,5 @@
+fav_movie: Fast and Furious
+fav_s: Friends
+fav_toty: Summer
+fav_food: Shaurma
+fav_country: Spain
