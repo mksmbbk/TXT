@@ -1,0 +1,4 @@
+name - Maxim
+age - 28
+pets - 0
+salary - 300
